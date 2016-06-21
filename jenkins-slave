@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec java -jar /usr/share/jenkins/slave.jar -jnlpUrl https://tde.sktelecom.com/jenkins/computer/life_svc_docker/slave-agent.jnlp -secret 4aa7fc3a9d3a09989943048b0a17e99b9f51c8384d01261bf95d2a90a688174a
