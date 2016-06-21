@@ -17,4 +17,5 @@ VOLUME /home/jenkins
 WORKDIR /home/jenkins
 USER jenkins
 
+
 ENTRYPOINT ["jenkins-slave"]
