@@ -1,1 +1,1 @@
-docker push eltriny/jenkins-slave:v1
+docker push eltriny/jenkins-jnlp-slave
